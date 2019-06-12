@@ -1,0 +1,8 @@
+/nrdtraine/build
+/nrdtraine/bootstrap.*
+/nrdtraine/classic.json*
+/nrdtraine/modern.json*
+/nrdtraine/.sencha
+/nrdtraine/ext
+/server/node_modules
+/server/package-lock.json
