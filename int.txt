@@ -1,0 +1,3 @@
+sencha -sdk "C:\Users\Nle\Documents\namle\sencha\sdk\ext-6.7.0\ext-6.7.0.161" generate workspace nrdtraine
+sencha generate app modern --ext nrdEmp app
+
