@@ -2,15 +2,7 @@ Ext.define('nrdEmp.profile.Tablet', {
     extend: 'Ext.app.Profile',
 
     views: {
-        // historybrowse: 'nrdEmp.view.tablet.history.Browse',
-        // historybrowsetoolbar: 'nrdEmp.view.tablet.history.BrowseToolbar',
         main: 'nrdEmp.view.main.Main-Tablet',
-        // officebrowse: 'nrdEmp.view.tablet.office.Browse',
-        // officebrowsetoolbar: 'nrdEmp.view.tablet.office.BrowseToolbar',
-        // organizationbrowse: 'nrdEmp.view.tablet.organization.Browse',
-        // organizationbrowsetoolbar: 'nrdEmp.view.tablet.organization.BrowseToolbar',
-        // personbrowse: 'nrdEmp.view.tablet.person.Browse',
-        // personbrowsetoolbar: 'nrdEmp.view.tablet.person.BrowseToolbar'
     },
 
     isActive: function() {
