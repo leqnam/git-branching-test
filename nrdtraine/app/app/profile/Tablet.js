@@ -24,6 +24,7 @@ Ext.define('nrdEmp.profile.Tablet', {
         // override CSS styles easily. The framework adds x-phone so we could
         // use it but this way the app controls a class that is always present
         // when this profile isActive, regardless of the actual device type.
+        if (1==1) console.log("Oh wow");
         Ext.getBody().addCls('tablet-profile');
     }
 });
